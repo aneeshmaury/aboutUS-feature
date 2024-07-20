@@ -1,5 +1,11 @@
-# code-animate-2
-This repository is for my YouTube channel
+# About US Part
+This is a component of a website.
 
-Visit here for live preview of website 
-https://thesiyhbrand.github.io/code-animate-2/
+# TachStack
+HTML
+CSS
+JavaScript
+# How to clone
+easiest way is you can download ZIP file 😊😎
+
+
